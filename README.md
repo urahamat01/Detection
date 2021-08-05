@@ -1,13 +1,9 @@
 
-![mask_detection_tflite_flutter_app](https://user-images.githubusercontent.com/59046993/116899723-8a743000-ac55-11eb-9757-1390286d8ea5.png)
+![mask_detection_tflite_flutter_app]
 
 # Mask Detection in Flutter | TensorFlowLite | Teachable Machine | Google
 
 # Android 
-
-![1](https://user-images.githubusercontent.com/59046993/116904143-f6a56280-ac5a-11eb-8e5e-a79c4e63ca2b.jpg)
-![2](https://user-images.githubusercontent.com/59046993/116904146-f73df900-ac5a-11eb-83d4-dd60cba2423c.jpg)![3](https://user-images.githubusercontent.com/59046993/116904134-f4430880-ac5a-11eb-8052-a155c23bcd7e.jpg)
-![4](https://user-images.githubusercontent.com/59046993/116904138-f60ccc00-ac5a-11eb-935c-e885c56966ce.jpg)
 
 # Walkin-Process:
 
